@@ -7,7 +7,7 @@ body {
     background-attachment: fixed; /* Fijar la imagen al fondo */
     background-position: center; /* Centrar la imagen */
     background-repeat: no-repeat; /* No repetir la imagen */
-    color: #fff; /* Texto blanco para contraste */
+    color: #b03636; /* Texto blanco para contraste */
 }
 
 #fotoperfil{
@@ -26,12 +26,13 @@ body {
 
 .jumbotron {
     background: none; /* Quitar fondo de la jumbotron */
-    color: #fff; /* Texto blanco para contraste */
+    color: #983a3a; /* Texto blanco para contraste */
     height: 100vh; /* Altura completa de la ventana */
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
+
 
 h1, h2 {
     color: #007bff;
